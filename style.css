@@ -1,0 +1,107 @@
+.button{
+    color: white;
+    background-color: rgb(63, 143, 63);
+    border-radius: 15px 15px
+    
+}
+.abc{
+    
+    width: 400px;
+    height: 420px;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;    
+    background: #F0FFF0;
+}
+
+.third{
+    
+    width: 400px;
+    height: 600px;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;    
+    background: white;
+}
+.forth{
+    
+    width: 400px;
+    height: 200px;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;    
+    background:white;
+}
+
+
+
+.row{
+    padding: 2px;
+}
+
+
+.cat1, .cat2, .cat3, .cat4{
+    
+    width: 270px;
+height: 270px;
+left: 1035px;
+top: 618px;
+background-color:#E5E5E5;
+    border-radius: 10px;
+    padding: 50px 60px;
+    text-align-last: center;
+}
+.cat1:hover{
+    background-color  :white;
+    
+}
+.cat2:hover{
+    background-color  :white;
+}
+.cat3:hover{
+    background-color  :white;
+}
+.cat4:hover{
+    background-color  :white;
+}
+
+
+
+image{
+    position: absolute;
+width: 554px;
+height: 346px;
+left: 691px;
+top: 157px;
+
+}
+.tc{
+    color: orange;
+}
+
+.avatar {
+    
+    float: right;
+    align-content: flex-end;
+    width: 120px;
+    height: 150px;
+    
+    
+  }
+  .ab{
+    padding-top: 5%;
+    padding-right: 20%; 
+    font-size: medium;
+      text-align: justify;
+  }
+
+  .foot{
+    
+      background-color: black;
+      color: white;
+      font-weight: bold;
+  }
+  .a{
+      text-align: center;
+      font-size: xx-small;
+  }
