@@ -1,8 +1,16 @@
+
+
+.btn-btn-success{
+    color: white;
+    background-color: rgb(63, 143, 63);
+    border-radius: 25px 25px   
+}
 .button{
     color: white;
     background-color: rgb(63, 143, 63);
-    border-radius: 15px 15px
-    
+    border-radius: 25px 25px   
+
+
 }
 .abc{
     
@@ -17,7 +25,7 @@
 .categories{
 
     width: 400px;
-    height: 400px;
+    height: 500px;
     left: 0px;
     top: 0px;
     bottom: 0px;    
@@ -31,13 +39,16 @@
     height: 600px;
     left: 0px;
     top: 0px;
-    bottom: 0px;    
-    background: white;
+    bottom: 0px;
+    padding :10px 20px
+    
+
+    
 }
 .forth{
     
     width: 400px;
-    height: 200px;
+    height: 300px;
     left: 0px;
     top: 0px;
     bottom: 0px;    
@@ -53,27 +64,26 @@
 
 .cat1, .cat2, .cat3, .cat4{
     
-    width: 270px;
+width: 270px;
 height: 270px;
 left: 1035px;
 top: 618px;
-background-color:#E5E5E5;
-    border-radius: 10px;
-    padding: 50px 60px;
-    text-align-last: center;
+background-color:whitesmoke;
+padding: 50px 60px;
+text-align-last: center;
 }
 .cat1:hover{
-    background-color  :white;
+    background-color  :#E5E5E5;
     
 }
 .cat2:hover{
-    background-color  :white;
+    background-color  :#E5E5E5;;
 }
 .cat3:hover{
-    background-color  :white;
+    background-color  :#E5E5E5;;
 }
 .cat4:hover{
-    background-color  :white;
+    background-color  :#E5E5E5;;
 }
 
 
@@ -88,6 +98,7 @@ top: 157px;
 }
 .tc{
     color: orange;
+   
 }
 
 .avatar {
@@ -107,15 +118,30 @@ top: 157px;
   }
 
   .foot{
-    
+      width: 400px;
+      height: 300px;
+      left: 0px;
+      top: 0px;
+      bottom: 0px;    
       background-color: black;
       color: white;
       font-weight: bold;
   }
-  .a{
+  .a ,.x{
       text-align: center;
       font-size: xx-small;
   }
-  .x{
-text-align: center;
+  
+  
+  .ahang{
+    height: 10%;
+    width: 10%;
+   
+   
+  }
+
+  .babu{
+      text-align: right;
+      font-size: x-small;
+     
   }
